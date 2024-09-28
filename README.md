@@ -1,2 +1,0 @@
-# GSAP-Learning
-GSAP Learning 
